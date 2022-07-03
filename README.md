@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Lisa.
+👋 Hi, My name is Lisa.
 
 <!---
 fangxuyi/fangxuyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
